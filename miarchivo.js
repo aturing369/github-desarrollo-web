@@ -1,1 +1,1 @@
-alert("Hola todo mudo");
+alert("Hola mudo");
